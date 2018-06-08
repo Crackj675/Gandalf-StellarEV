@@ -1,0 +1,35 @@
+./SphLeapfrogDKD.o SphLeapfrogDKD.d : \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/SphLeapfrogDKD.cpp \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/Integration.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/Precision.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/CodeTiming.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/Constants.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/DomainBox.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/Exception.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/Sph.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/EOS.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/Particle.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/Parameters.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/Flags.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/SimUnits.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/ExternalPotential.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/InlineFuncs.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/Hydrodynamics.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/Debug.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/SmoothingKernel.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/RiemannSolver.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/NbodyParticle.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/Nbody.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/Ewald.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/StarParticle.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/SystemParticle.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/NeighbourManager.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/TreeCell.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/GhostNeighbours.hpp \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/NeighbourManagerBase.h \
+ /home/paul/StellarEvolution/Gandalf/src/Hydrodynamics/../Headers/Multipole.h \
+ /home/paul/StellarEvolution/Gandalf/src/Headers/Sph.h \
+ /home/paul/StellarEvolution/Gandalf/src/Headers/SmoothingKernel.h \
+ /home/paul/StellarEvolution/Gandalf/src/Headers/Particle.h \
+ /home/paul/StellarEvolution/Gandalf/src/Headers/EOS.h \
+ /home/paul/StellarEvolution/Gandalf/src/Headers/Debug.h
